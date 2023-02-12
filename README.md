@@ -12,3 +12,7 @@ Finally, the code propogates the two fit parameters along with their uncertainti
 Data files to be read in: 
 
 'doppler_data_1.csv', 'doppler_data_2.csv'.
+
+Output figures included in repository:
+
+'Contour_plot.png', 'fitline_against_data.png'.
